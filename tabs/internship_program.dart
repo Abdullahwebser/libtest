@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 import '../models/intern.dart';
-import '../widgets/WebInfoTab.dart'; // Adjust the import path as needed
+//import '../widgets/WebInfoTab.dart'; // Adjust the import path as needed
+import '../widgets/webinfotab.dart';
+
 
 class InternsScreen extends StatefulWidget {
   const InternsScreen({super.key});
